@@ -1,12 +1,13 @@
-import React from 'react';
-import Navigation from './components/Navigation';
-import Hero from './components/Hero';
-import About from './components/About';
-import Services from './components/Services';
-import Gallery from './components/Gallery';
-import GoogleReviews from './components/GoogleReviews';
-import Booking from './components/Booking';
-import Footer from './components/Footer';
+import React from "react";
+import Navigation from "./components/Navigation";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Services from "./components/Services";
+import Gallery from "./components/Gallery";
+import GoogleReviews from "./components/GoogleReviews";
+import Booking from "./components/Booking";
+import Footer from "./components/Footer";
+import DiscountCoupon from "./components/DiscountCoupon";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <GoogleReviews />
       <Booking />
       <Footer />
+      <DiscountCoupon />
     </div>
   );
 }
