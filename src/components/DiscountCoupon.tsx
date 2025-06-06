@@ -34,7 +34,7 @@ const DiscountCoupon = () => {
         >
           <div className="flex items-center space-x-2">
             <Gift className="h-5 w-5" />
-            <span className="text-sm font-medium">-3€</span>
+            <span className="text-sm font-medium">-1€</span>
           </div>
         </div>
       )}
