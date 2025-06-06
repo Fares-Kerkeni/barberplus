@@ -61,7 +61,7 @@ const DiscountCoupon = () => {
           <div className="p-4">
             <div className="text-center mb-3">
               <h3 className="text-lg font-bold text-red-600 mb-1">
-                3€ DE RÉDUCTION
+                1€ DE RÉDUCTION
               </h3>
               <p className="text-gray-600 text-xs">
                 Dites que vous avez vu notre site !
